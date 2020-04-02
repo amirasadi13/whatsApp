@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/contact_search_btn"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title=""
+        app:showAsAction="always"/>
+    <item android:id="@+id/contact_invite_btn"
+        android:title="Invite a friend"/>
+    <item android:id="@+id/contact_goToContact_btn"
+        android:title="Contact"/>
+    <item android:id="@+id/contact_refresh_btb"
+        android:title="Refresh"/>
+    <item android:id="@+id/contact_help_btn"
+        android:title="Help"/>
+</menu>
